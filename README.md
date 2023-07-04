@@ -4,7 +4,7 @@ Hey everyone! My name's Tavi and I love to code stuff. This account is mainly us
 # Contact #
 If you want to contact me for any reason, from learning more about how I started or maybe getting access to see a private repository, my links are here. Discord is what I am most active on, so that's a good place to start!
 - Discord: https://discord.gg/mpYdddZ
-- Twitter: https://twitter.com/Coder_Tavi
+- Twitter: https://twitter.com/totallytavi
 - Utreon: https://utreon.com/c/tavi
 
 # Projects #
