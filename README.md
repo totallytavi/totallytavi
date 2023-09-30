@@ -14,8 +14,8 @@ I've done several projects, but these are the most significant and the ones I up
 - Several custom bots for several servers
 
 # Statistics #
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-tavi&count_private=true&theme=monokai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=totallytavi&count_private=true&theme=monokai&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-tavi&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totallytavi&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=coder-tavi&column=4&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=totallytavi&column=4&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
