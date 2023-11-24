@@ -1,4 +1,5 @@
 # About Me #
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/409740404636909578?simple=true)
 Hey everyone! My name's Tavi and I love to code stuff. This account is mainly used for hosting and syncing code between my computers and my VPS. Commonly, you'll see me committing to Discord bots since that's what I mainly do. I write in Node.js and subsequently use Discord.js. Unfortunately, most of my repositories are private because their previous commits contain tokens which will get reset upon making public. Also, the code is made to be for specific servers and may not meet your specific needs. However, when a project is public, I invite you to fork it, change it, and play around! That's how I learned and it's really fun to do. And if you're starting out, **don't worry if you're still searching answers online**! Even the best programmers do it and I have searched answers online.
 
 # Contact #
