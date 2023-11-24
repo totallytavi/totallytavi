@@ -11,8 +11,8 @@ If you want to contact me for any reason, from learning more about how I started
 
 # Projects #
 I've done several projects, but these are the most significant and the ones I update the most. I do want to mention that I **strongly** recommend you read the `README.md` files associated with each repository since they may contain detailed information that give you great information that will be important either right then or later
-- Kitsune Helper (https://github.com/Coder-Tavi/KitsuneHelper_VPS)
-- Project Aviary (https://github.com/Coder-Tavi/BirdMk2_VPS)
+- Kitsune Helper (https://github.com/totallytavi/KitsuneHelper_VPS)
+- IRF Administratoin (https://github.com/FederationStudios/IRF_Administration)
 - Several custom bots for several servers
 
 # Statistics #
