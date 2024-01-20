@@ -25,8 +25,10 @@
 - TypeScript lover, JS is tolerated
 - Freelance developer
 - ~3 years of experience!
-- Absolutely loves foxes and mythology (Yes, that means kitsunes :fox_face:)
+- Absolutely loves foxes and mythology (Yes, that means kitsunes 🦊)
+- Late night coding ftw 🌙
 - Open to all DMs
+<br>
 
 # Statistics #
 <div>
