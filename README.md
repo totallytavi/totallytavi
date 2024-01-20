@@ -1,23 +1,56 @@
-# About Me #
-![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/409740404636909578?simple=true)
+# Hi and welcome!
+<div align="left">
+  <a href="https://twitter.com/totallytavi">
+    <img
+      src="https://img.shields.io/twitter/follow/totallytavi?label=Twitter&logo=twitter&style=flat-square&color=fc6d26&logoColor=000000"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://dev.discordprofiles.me/ap">
+    <img
+      src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/409740404636909578?simple=true"
+      alt="Discord status"
+    />
+  </a>
+  <a href="https://api.daily.dev/get?r=totallytavi" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/totallytavi/totallytavi/devcard/devcard.svg"
+    />
+  </a>
+</div>
 
-Hey everyone! My name's Tavi and I love to code stuff. This account is mainly used for hosting and syncing code between my computers and my VPS. Commonly, you'll see me committing to Discord bots since that's what I mainly do. I write in Node.js and subsequently use Discord.js. Unfortunately, most of my repositories are private because their previous commits contain tokens which will get reset upon making public. Also, the code is made to be for specific servers and may not meet your specific needs. However, when a project is public, I invite you to fork it, change it, and play around! That's how I learned and it's really fun to do. And if you're starting out, **don't worry if you're still searching answers online**! Even the best programmers do it and I have searched answers online.
-
-# Contact #
-If you want to contact me for any reason, from learning more about how I started or maybe getting access to see a private repository, my links are here. Discord is what I am most active on, so that's a good place to start!
-- Discord: https://discord.gg/mpYdddZ
-- Twitter: https://twitter.com/totallytavi
-- Utreon: https://utreon.com/c/tavi
-
-# Projects #
-I've done several projects, but these are the most significant and the ones I update the most. I do want to mention that I **strongly** recommend you read the `README.md` files associated with each repository since they may contain detailed information that give you great information that will be important either right then or later
-- Kitsune Helper (https://github.com/totallytavi/KitsuneHelper_VPS)
-- IRF Administratoin (https://github.com/FederationStudios/IRF_Administration)
-- Several custom bots for several servers
+## My name is Tavi
+- TypeScript lover, JS is tolerated
+- Freelance developer
+- ~3 years of experience!
+- Absolutely loves foxes and mythology (Yes, that means kitsunes :fox_face:)
+- Open to all DMs
 
 # Statistics #
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=totallytavi&count_private=true&theme=monokai&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totallytavi&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=totallytavi&column=4&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=totallytavi&count_private=true&theme=monokai&show_icons=true&card_width=440px"
+        alt="List of totallytavi's general statistics"
+      />
+    </a>
+    &nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=totallytavi&theme=monokai&layout=compact"
+        alt="Most used languages by totallytavi"
+      />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=totallytavi&column=4&theme=dark_lover"
+        alt="List of trophies earned by totallytavi"
+      />
+    </a>
+  </div>
+</div>
