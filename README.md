@@ -33,25 +33,17 @@
 # Statistics #
 <div>
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+    <a href="https://github.com/stats-organization/github-stats-extended#github-stats-card">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=totallytavi&count_private=true&theme=monokai&show_icons=true&card_width=440px"
+        src="https://github-stats-extended.vercel.app/api?username=totallytavi&count_private=true&theme=monokai&show_icons=true&card_width=440px"
         alt="List of totallytavi's general statistics"
       />
     </a>
     &nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+    <a href="https://github.com/stats-organization/github-stats-extended#top-languages-card">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=totallytavi&theme=monokai&layout=compact"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=totallytavi&theme=monokai&layout=compact"
         alt="Most used languages by totallytavi"
-      />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=totallytavi&column=4&theme=dark_lover"
-        alt="List of trophies earned by totallytavi"
       />
     </a>
   </div>
